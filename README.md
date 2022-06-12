@@ -1,6 +1,17 @@
 WebUSB ❤ ️Arduino
 ================
 
+
+forked by @rocksetta for the Portenta
+June 11, 2022
+
+demo at
+
+https://hpssjellis.github.io/arduino-webusb/demos/index.html
+
+
+
+
 This repository contains an Arduino library for WebUSB-enabling your sketches.
 Example sketches and JavaScript code are available in the demos directory.
 
